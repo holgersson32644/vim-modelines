@@ -1,0 +1,15 @@
+= vim modelines
+
+This repository holds some so-called mode lines for vim and neovim.
+These lines can be added at the bottom of files of different types (e.g. markdown, asciidoc, c sources) to help the editor to use good defaults when displaying end editing files, e.g. to replace tabs by whitespaces if desired.
+In each file there are two styles for the mode lines.
+Choose the one that you prefer.
+
+The files are probably so basic that they do not need any license.
+If I'm wrong here you can assume every mode line file is licensed as MIT license - or similar permissive:
+
+`Nils Freydank <holgersson@posteo.de> 2023, MIT license for all files inside this repository.`
+
+If you have questions, see this repository as useful or just like to yell at me because your coworker used files from here and screwed up your project send me an email or ping me on https://maly.io/@holgersson[mastodon].
+
+// vim:syntax=asciidoc:fileencoding=utf-8:ts=4:expandtab:linebreak:wrap
