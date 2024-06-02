@@ -1,0 +1,7 @@
+#!/usr/bin/nft -f 
+
+# THIS SYNTAX HIGHLIGHT NEEDS A PLUGIN, E.G.:
+#  https://github.com/nfnty/vim-nftables
+
+# vim:syntax=nftables:fileencoding=utf-8:ts=4:expandtab:linebreak:wrap
+# vim: set syntax=nftables fileencoding=utf-8 ts=4 expandtab linebreak wrap :
